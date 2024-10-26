@@ -8,7 +8,8 @@ Check for spelling mistakes, and make sure to have one space in between everythi
 
 When you have your answer, press Enter.
 
-There are 4 levels in total, Enjoy the game! :)
+Goal:
+There are 4 levels in total, you must pass at least 3 of them to escape the island. Have fun:)
 
 #Storyline
 

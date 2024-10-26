@@ -4,7 +4,7 @@
 
 During the game make sure to follow the instructions precisely, as the code was written in a case sensitive language. (spaces and spelling mistakes matter!)
 
-Check for spelling mistakes, and make sure to have one space in between everything. Ex.(equtaions) i = 8 Ex.(while loops) i = 2 while < 4:
+Check for spelling mistakes, and make sure to have one space in between everything. Ex.(equations) i = 8 Ex.(while loops) i = 2 while < 4:
 
 When you have your answer, press Enter.
 

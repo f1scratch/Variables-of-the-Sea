@@ -1,4 +1,4 @@
-How to play
+How to play:
 
 During the game make sure to follow the instructions precisely, as the code was written in a case sensitive language. (spaces and spelling mistakes matter!)
 
